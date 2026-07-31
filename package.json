@@ -1,0 +1,13 @@
+{
+  "name": "birthday-love-website",
+  "version": "1.0.0",
+  "description": "Website ucapan ulang tahun yang romantis dan interaktif",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'Building...'",
+    "start": "python -m http.server 3000"
+  },
+  "keywords": ["birthday", "love", "romantic", "celebration"],
+  "author": "Your Name",
+  "license": "MIT"
+}
